@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.Form1.resources
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\bin\Debug\net472\OrdenamientoMultihilo.exe.config
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\bin\Debug\net472\OrdenamientoMultihilo.exe
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\bin\Debug\net472\OrdenamientoMultihilo.pdb
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.exe
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.pdb
+C:\Users\USUARIO\Downloads\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.exe.config
